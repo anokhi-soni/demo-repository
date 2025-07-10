@@ -1,2 +1,2 @@
 # demo-repository
-Making this repo just to learn GitHub
+Making this repo just to learn GitHub.
